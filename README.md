@@ -123,7 +123,7 @@ After changing the root user password, log in with the reset password:
 sudo mysql -u root -p
 ```
 
-![log password](images/log%20password.png)
+![log2 password](images/log2%20password.png)
 
 **Exit MySQL Shell:**
 Enter exit to log out
@@ -132,7 +132,7 @@ Enter exit to log out
 exit
 ```
 
-![exit mysql](images/exit%20mysql.png)
+![exit2 mysql](images/exit2%20mysql.png)
 
 ---
 
@@ -157,7 +157,7 @@ sudo apt install php libapache2-mod-php php-mysql
 php -v
 ```
 
-![confirm php](images/confirm%20php.png)
+![confirm2 php](images/confirm2%20php.png)
 
 At this point, the LAMP Web stack is successfully installed and fully operation.
 
