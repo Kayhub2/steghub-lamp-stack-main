@@ -235,6 +235,8 @@ http://100.58.104.78/kaylamp/info.php
 
 ![newphp info](images/newphp%20info.png)
 
+This is confirms that it is working perfectly.
+
 ---
 
 ## ✅ Result
